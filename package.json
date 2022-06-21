@@ -1,0 +1,11 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "bekzatbb",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.5.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
